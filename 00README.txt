@@ -20,7 +20,7 @@ Section 2 Kinematics
     ik_stretch_LM : Levenberg-Marqardt method using singularity robust inverse
 
 Section 3 ZMP and Dynamcis
-    calcurate_zmp : Show ZMP(IZMP) of biped robot and the CoM projection(3.4.1)
+    calculate_zmp : Show ZMP(IZMP) of biped robot and the CoM projection(3.4.1)
 
 Section 6 Dynamic simulation
     rigidbody_rotate : Animate rigid body rotation in zero-gravity (6.1.2)
